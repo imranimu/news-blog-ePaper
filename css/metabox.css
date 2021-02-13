@@ -1,0 +1,54 @@
+/*
+## Custom Meta Box Style
+******************************/
+
+.contact_wrap{
+	margin: 20px;
+	border: 1px solid #ccc;
+	padding: 25px;
+	border-radius: 5px;
+	position: relative;
+}
+
+.contact_wrap h1{
+	margin-bottom: 5px; 
+	font-size: 18px; 
+	padding: 0px; 
+}
+
+.filed_wrap{
+	margin-bottom: 20px; 
+}
+
+.contact_wrap label{
+	font-size: 14px; 
+}
+
+.field_label{
+	width: 40%; 
+	display: inline-block;
+}
+
+.removeField {
+    background: #ec5f54;
+    padding: 4px;
+    font-size: 14px;
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    color: #fff;
+    text-decoration: none;
+    width: 16px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.add_more{
+	margin: 20px; 
+}
+
+.img_status, .img_status img{
+	height: 100px!important; 
+	width: auto!important;
+}
